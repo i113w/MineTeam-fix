@@ -1,0 +1,6 @@
+{
+  "message.mine_team.no_team": "%s does not belong to any team.",
+  "message.mine_team.in_team": "Player %s is in team: %s",
+  "message.mine_team.no_other_members": "There are no other members in this team.",
+  "message.mine_team.other_members": "Other members in team: %s"
+}

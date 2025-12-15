@@ -1,0 +1,6 @@
+{
+  "message.mine_team.no_team": "%s 不属于任何队伍.",
+  "message.mine_team.in_team": "玩家 %s 所在的队伍是: %s",
+  "message.mine_team.no_other_members": "该队伍中没有其他成员.",
+  "message.mine_team.other_members": "队伍中的其他成员: %s"
+}
